@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+pod 'FBSDKCoreKit', '~> 8.0.0'
+pod 'FBSDKLoginKit', '~> 8.0.0'
+pod 'FBSDKShareKit', '~> 8.0.0'
+pod 'FBSDKGamingServiceKit', '~> 8.0.0'
